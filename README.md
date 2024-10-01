@@ -10,6 +10,6 @@ Trajectories For This Manuscript Can Be Downloaded Here:
 
 Files:
 cluster_function.py is for all the functions needed to perform t-SNE and K-means clustering.
-cluster_com_E2E7.ipynb is for clustering the combined trajectory of non-covalent trajectory $Tau-5_{R2\_R3}$ in the presence of EPI-002 and EPI-7170 with 4 clusters.
+cluster_com_E2E7.ipynb is for clustering the combined trajectory of non-covalent trajectory $Tau-5_{R2-R3}$ in the presence of EPI-002 and EPI-7170 with 4 clusters.
 cluster_com_E2E7_C20.ipynb is for clustering the combined trajectory of non-covalent trajectory Tau-5$_{R2_R3}$ in the presence of EPI-002 and EPI-7170 with 18 clusters.
 cluster_com_CYECYE7.ipynb is for clustering the combined trajectory of Tau-5$_{R2_R3}$ CYS404:EPI-002 and Tau-5$_{R2_R3}$ CYS404:EPI-7170
