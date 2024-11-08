@@ -1,8 +1,11 @@
 # Zhu_et_al_Covalent_2024
 Code Accompanying "Covalent adducts formed by the androgen receptor transactivation domain and small molecule drugs remain disordered" by Zhu and Robustelli
 
-Trajectories For This Manuscript Can Be Downloaded Here:
-(./trajectory)
+Trajectories analyzed in this manuscript can be downloaded here:
+https://www.dropbox.com/scl/fi/yr34tctxe17pg3c1iwjhf/Zhu_AR_CovalentAdducts_24_Trajectories.zip?rlkey=a7zt2vmnm0dg2c8e48358m8wr&st=v5vuzo9w&dl=0
+
+Simulation inpute files can be downloaded here:
+https://www.dropbox.com/scl/fi/d0jpxpe3zrv3lurzn1b8j/Zhu_CovalentAdducts_24_SimulationInputs.zip?rlkey=lxhi8vi80hrlscz3oo5lkuy76&st=pssr69v6&dl=0
 
 ## Steps
 
