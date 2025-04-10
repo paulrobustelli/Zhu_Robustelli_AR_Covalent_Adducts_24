@@ -30,3 +30,7 @@ Zhu_AR_Ligands_Tau5R2R3_CYE_9.11.24.ipynb is for the analysis of Replica Exchang
 Zhu_AR_Ligands_Tau5R2R3_CYE7_9.11.24.ipynb is for the analysis of Replica Exchange with Solute Tempering simulation of Tau-5<sub>R2_R3</sub> CYS404:EPI-7170.
 
 Zhu_AR_Ligands_Compare_Ensembles_covalent_all.ipynb is for comparing the simulation results of apo Tau-5<sub>R2_R3</sub>, non-covalent trajectory Tau-5<sub>R2_R3</sub> in the presence of EPI-002 and EPI-7170, Tau-5<sub>R2_R3</sub> CYS404:EPI-002 and Tau-5<sub>R2_R3</sub> CYS404:EPI-7170.
+
+CYE_CS_exp.dat is the experimental chemical shifts used for reweighting for Tau-5<sub>R2_R3</sub> CYS404:EPI-002.
+
+Zhu_AR_Ligands_Tau5R2R3_CYE_reweighting.ipynb is the Maximum Entropy Reweighting notebook to incorporate experimental NMR chemical shifts to MD simulation data. We used SPARTA+ to calculate simulated chemical shifts.
